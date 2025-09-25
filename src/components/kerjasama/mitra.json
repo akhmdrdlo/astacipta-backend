@@ -1,0 +1,49 @@
+{
+  "collectionName": "components_kerjasama_mitras",
+  "info": {
+    "displayName": "Mitra",
+    "icon": "emotionHappy"
+  },
+  "options": {},
+  "attributes": {
+    "logoInstansi": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "namaInstansi": {
+      "type": "string",
+      "required": true
+    },
+    "tipeKerjasama": {
+      "type": "string",
+      "required": true
+    },
+    "kategori": {
+      "type": "enumeration",
+      "required": true,
+      "enum": [
+        "Institusi Pendidikan",
+        "Instansi Dalam Negeri",
+        "Instansi Luar Negeri",
+        "BUMN",
+        "Kolaborator Lainnya"
+      ]
+    },
+    "tahunKerjasama": {
+      "type": "date",
+      "required": true
+    },
+    "detailKerjasama": {
+      "type": "blocks",
+      "required": true
+    }
+  },
+  "config": {}
+}

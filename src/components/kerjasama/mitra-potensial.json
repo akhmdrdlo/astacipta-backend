@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_kerjasama_mitra_potensials",
+  "info": {
+    "displayName": "Mitra-Potensial"
+  },
+  "options": {},
+  "attributes": {
+    "logoInstansi": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "namaInstansi": {
+      "type": "string",
+      "required": true
+    },
+    "detailPotensi": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}

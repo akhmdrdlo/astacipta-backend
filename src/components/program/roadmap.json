@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_program_roadmaps",
+  "info": {
+    "displayName": "Roadmap",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "judulRoadmap": {
+      "type": "string"
+    },
+    "roadmap": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  },
+  "config": {}
+}

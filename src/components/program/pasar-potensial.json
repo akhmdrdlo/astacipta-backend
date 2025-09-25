@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_program_pasar_potensials",
+  "info": {
+    "displayName": "Pasar-Potensial"
+  },
+  "options": {},
+  "attributes": {
+    "logoInstansi": {
+      "type": "media",
+      "multiple": false,
+      "required": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "namaInstansi": {
+      "type": "string",
+      "required": true
+    },
+    "potensiPasar": {
+      "type": "blocks"
+    }
+  },
+  "config": {}
+}
