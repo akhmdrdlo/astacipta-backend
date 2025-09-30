@@ -21,11 +21,11 @@ module.exports = [
     config: {
       enabled: true,
       headers: '*',
-      // Daftar alamat yang diizinkan untuk mengakses API Anda
+      // Daftar lengkap alamat yang diizinkan untuk mengakses API Anda
       origin: [
-        'http://localhost:1337',
-        'http://localhost:3000',
-        'https://astacipta-dashboard.vercel.app/', 
+        'http://localhost:1337', // Strapi lokal
+        'http://localhost:3000', // Next.js lokal
+        '[https://astacipta-dashboard.vercel.app](https://astacipta-dashboard.vercel.app)', // <-- PERBAIKAN DI SINI (sekarang dalam format string yang benar)
       ],
     },
   },
