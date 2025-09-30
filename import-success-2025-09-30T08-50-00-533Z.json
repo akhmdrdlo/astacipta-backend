@@ -1,0 +1,1319 @@
+[
+  {
+    "inputIdentifier": "electrooptic-and-sensor-technology",
+    "result": {
+      "status": 400,
+      "body": {
+        "data": null,
+        "error": {
+          "status": 400,
+          "name": "ValidationError",
+          "message": "This attribute must be unique",
+          "details": {
+            "errors": [
+              {
+                "path": [
+                  "slug"
+                ],
+                "message": "This attribute must be unique",
+                "name": "ValidationError",
+                "value": "electrooptic-and-sensor-technology"
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "inputIdentifier": "artificial-intelligence",
+    "result": {
+      "status": 201,
+      "body": {
+        "data": {
+          "id": 4,
+          "documentId": "mdcp4o4l70z540pntlb1xv4y",
+          "namaProgram": "Artificial Intelligence",
+          "slug": "artificial-intelligence",
+          "PICProgram": "Ilham Nugraha",
+          "deskripsiProgram": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Pengembangan sistem automasi berbasis kecerdasan buatan berupa produk :"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Maritime Situational Awareness"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Imaginary Analysis"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "AI Driven Threat Analytic (NextG SOC)"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "cakupanProgram": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "---"
+                }
+              ]
+            }
+          ],
+          "prediksiAnggaran": null,
+          "sumberDana": null,
+          "progressTindakLanjut": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Aktivasi AI Lab Rintisan"
+                }
+              ]
+            }
+          ],
+          "risikoDanHambatan": [
+            {
+              "type": "list",
+              "format": "unordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Komitmen Mitra yang menyatakan perbedaan prioritas"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Keterbatasan Funding yang menyebabkan proses pengembangan terhambat dan banyak kompetitor"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Strategi Penyusuna Roadmap yang terganggu akibat perbedaan kepentingan serta pandangan antar stakeholder"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Perbedaan Interest arah Riset antara tiap universitas yang memiliki fokus yang berbeda dengan kebutuhan perusahaan"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Keterbatasan Data Nasional dikarenakan tidak ada satu data resources nasional yang mumpuni"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Risiko perubahan kebijakan dan regulasi yang mengakibatkan program dapat terdampak atas perubahan"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-09-30T08:50:00.737Z",
+          "updatedAt": "2025-09-30T08:50:00.737Z",
+          "publishedAt": "2025-09-30T08:50:00.839Z",
+          "locale": "en"
+        },
+        "meta": {}
+      }
+    }
+  },
+  {
+    "inputIdentifier": "satellite-and-remote-sensing-technology",
+    "result": {
+      "status": 201,
+      "body": {
+        "data": {
+          "id": 6,
+          "documentId": "scewqojsy7v4bpaj5jq1pr9j",
+          "namaProgram": "Satellite & Remote Sensing Technology",
+          "slug": "satellite-and-remote-sensing-technology",
+          "PICProgram": "Laksono Widyo Isworo",
+          "deskripsiProgram": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Membangun kapabilitas analisa data citra satelit dan membangun AI Model untuk keperluan Intelligence, Surveillance, and Reconnaissance (ISR) untuk mendukung proyek Sathan."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Serta menyediakan pemodelan kebutuhan konstelasi satelit EO untuk seluruh Indonesia"
+                }
+              ]
+            }
+          ],
+          "cakupanProgram": [
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Space Segments"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "End Services"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "prediksiAnggaran": null,
+          "sumberDana": null,
+          "progressTindakLanjut": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Rencana Tindak Lanjut : ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Bersama Hanwha , mendiskusikan Technology Principal Nano Satellite"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Bersama Plan S, mendiskusikan tentang lanjutan dari proposal yang dikirimkan mengenai RFP 1 nano satelit untuk proyek sathan"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Bersama Planet Labs dan EarthDaily, melakukan analisis mendalam mengenai model berlangganan dan komposisi layanan yang dibutuhkan untuk membangun kapabilitas penggunaan data analitik untuk ISR"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "risikoDanHambatan": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "-"
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-09-30T08:50:01.732Z",
+          "updatedAt": "2025-09-30T08:50:01.732Z",
+          "publishedAt": "2025-09-30T08:50:01.739Z",
+          "locale": "en"
+        },
+        "meta": {}
+      }
+    }
+  },
+  {
+    "inputIdentifier": "tactical-communication-and-ncw",
+    "result": {
+      "status": 201,
+      "body": {
+        "data": {
+          "id": 8,
+          "documentId": "w76waa5nw92jywhxf9lu3f1x",
+          "namaProgram": "Tactical Communication & NCW",
+          "slug": "tactical-communication-and-ncw",
+          "PICProgram": "-",
+          "deskripsiProgram": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Membuat perangkat keras jaringan yang menyediakan jalur komunikasi yang luas baik itu dalam aspek kemiliteran maupun maritim"
+                }
+              ]
+            }
+          ],
+          "cakupanProgram": [
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Tactical Data Link"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Combat Management System (CMS)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Command Control System (CCS)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "prediksiAnggaran": "-",
+          "sumberDana": "-",
+          "progressTindakLanjut": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Sudah berjalan melakukan modernisasi kapal sejak tahun 2024"
+                }
+              ]
+            }
+          ],
+          "risikoDanHambatan": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Butuh bantuan untuk melancarkan pasokan bahan yang berhubungan dnegan product development dan delivery yang sudah direncanakan di anggaran proyek"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Competency Development yang mendukung roadmap produk"
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-09-30T08:50:02.433Z",
+          "updatedAt": "2025-09-30T08:50:02.433Z",
+          "publishedAt": "2025-09-30T08:50:02.537Z",
+          "locale": "en"
+        },
+        "meta": {}
+      }
+    }
+  },
+  {
+    "inputIdentifier": "semi-conductor",
+    "result": {
+      "status": 201,
+      "body": {
+        "data": {
+          "id": 10,
+          "documentId": "hxymbidkstgftk2mm0ie3q85",
+          "namaProgram": "Semi Conductor",
+          "slug": "semi-conductor",
+          "PICProgram": "Billy Barokah",
+          "deskripsiProgram": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Menjadi penopang ekosistem semikonduktor terintegrasi dan kompetitif secara global, dengan menguasai tahapan kunci mulai dari perancangan (fabless) hingga perakitan dan pengujian akhir (ATP/OSAT), untuk mendukung kemandirian teknologi dan pertumbuhan ekonomi digital"
+                }
+              ]
+            }
+          ],
+          "cakupanProgram": [
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Fabless Model"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Foundries"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Outsourced Semiconductor Assembly and Test"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Assembly, Testing and Packaging"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "prediksiAnggaran": null,
+          "sumberDana": null,
+          "progressTindakLanjut": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "-"
+                }
+              ]
+            }
+          ],
+          "risikoDanHambatan": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Constraint Internal Kegiatan"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Dibutuhkan data external berupa market research atau report dari konsultan/penyedia yang reputable."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Risiko Internal Kegiatan"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Analisa dan kajian yang kurang komprehensif/akurat"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Penyusunan kajian untuk Stakeholder Danantara yang melewati deadline (Agustus)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Terdapat Stakeholder yang belum teridentifikasi"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Risiko Industri"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Belum adanya turunan kebijakan nasional"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Dinamika geopolitik dan supply chain global "
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Ketergantungan pada Partner dan Teknologi Asing"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Nilai investasi dan cepatnya perubahan teknologi serta proses manufaktur"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-09-30T08:50:03.335Z",
+          "updatedAt": "2025-09-30T08:50:03.335Z",
+          "publishedAt": "2025-09-30T08:50:03.438Z",
+          "locale": "en"
+        },
+        "meta": {}
+      }
+    }
+  },
+  {
+    "inputIdentifier": "robotic-automation-electronic-and-unmanned-autonomous-system",
+    "result": {
+      "status": 201,
+      "body": {
+        "data": {
+          "id": 12,
+          "documentId": "mbri2xsuv848kcsz2xup7gd7",
+          "namaProgram": "Robotic, Automation Electronic & Unmanned Autonomous System",
+          "slug": "robotic-automation-electronic-and-unmanned-autonomous-system",
+          "PICProgram": "Fajar Miftahul Falah",
+          "deskripsiProgram": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Program yang ditujukan untuk mewujudkan kemandirian teknologi di bidang sistem nirawak baik untuk keperluan pertahanan maupun pengaplikasian di bidang komersial seperti pertanian, perhubungan, penanganan bencana dan lainnya."
+                }
+              ]
+            }
+          ],
+          "cakupanProgram": [
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Studi roadmap pengembangan teknologi"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Studi aspek bisnis dan pasar"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Pembuatan Prototipe"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "prediksiAnggaran": null,
+          "sumberDana": null,
+          "progressTindakLanjut": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Potensi Lanjutan : ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Sistem kendaraan antar moda (UAV,UGV,UUV,USV)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Pengembangan AI untuk fitur tambahan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Integrasi dengan satelit mikro untuk on premise long range navigation."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "risikoDanHambatan": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Kendala Utama Program : ",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Adanya Regulasi yang perlu dipenuhi untuk pengembangan di level tertentu."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Infrastruktur untuk pengembangan komponen utama belum tersedia di dalam negeri."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Resiko Utama Program :",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Keamanan Informasi dalam Kerjasama terutama dengan pihak luar negeri."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Potensi competitor di pasar dalam negeri karena barrier to entry untuk beberapa segmen value chain cukup rendah (platform, komponen pendukung, dll)"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-09-30T08:50:04.338Z",
+          "updatedAt": "2025-09-30T08:50:04.338Z",
+          "publishedAt": "2025-09-30T08:50:04.534Z",
+          "locale": "en"
+        },
+        "meta": {}
+      }
+    }
+  },
+  {
+    "inputIdentifier": "radar-and-electronic-warfare-system",
+    "result": {
+      "status": 201,
+      "body": {
+        "data": {
+          "id": 14,
+          "documentId": "k4n0yq2vy4lqffdqd85kjc3j",
+          "namaProgram": "Radar & Electronic Warfare System",
+          "slug": "radar-and-electronic-warfare-system",
+          "PICProgram": "Sihmanto",
+          "deskripsiProgram": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Pengembangan sistem radar dan peralatan perang elektronik untuk meningkatkan kualitas pertahanan."
+                }
+              ]
+            }
+          ],
+          "cakupanProgram": [
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Radar System"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Radar Chip"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Spare Part Radar"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "prediksiAnggaran": null,
+          "sumberDana": null,
+          "progressTindakLanjut": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "-"
+                }
+              ]
+            }
+          ],
+          "risikoDanHambatan": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Risiko Utama Program :"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Dinamika Kebijakan Pemerintah"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Potensi Relokasi Anggaran Pemerintah"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Transfer of Technoloy yang dibatasi Principal"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Isu Peretasan Sistm"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Potensi Embargo mengikuti Dinamika Geopolitik Dunia"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Harga produk yang fluktuatif mengikuti dinamika isu tarif impor dunia"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Support maintenance dari principal setelah After Sales"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Kegagalan integrasi sub-komponen"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Kendala Utama Program :",
+                  "type": "text",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Produk Pertahanan :"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Regulasi ketat impor produk pertahanan"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Uji Kelayakan Operasional (FAT/SAT) sebelum produk digunakan"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Ketergantungan atas komponen utama dari Principal."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Ketergantungan atas Rantai Pasok."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Pemenuhan atas standar teknis teknologi (MIL-STD atau DNV)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Ketersediaan perangkat pendukung luar negeri."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Produk Komersial :"
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Ketergantungan atas APBN"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Akurasi Perangkat"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Ketersediaan perangkat pendukung dalam negeri."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Skema kontrak yang tidak menguntungkan perusahaan."
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-09-30T08:50:05.532Z",
+          "updatedAt": "2025-09-30T08:50:05.532Z",
+          "publishedAt": "2025-09-30T08:50:05.633Z",
+          "locale": "en"
+        },
+        "meta": {}
+      }
+    }
+  },
+  {
+    "inputIdentifier": "cyber-security",
+    "result": {
+      "status": 201,
+      "body": {
+        "data": {
+          "id": 16,
+          "documentId": "cbniej9q4s8reawi65wqtcjz",
+          "namaProgram": "Cyber Security",
+          "slug": "cyber-security",
+          "PICProgram": "Edy Afrizal, S.Kom",
+          "deskripsiProgram": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Peningkatan keamanan jaringan pertahanan dan komersial di indonesia"
+                }
+              ]
+            }
+          ],
+          "cakupanProgram": [
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Security Operation Center Solution"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Security Product for IT/OT Data Diode"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Advanced Zerb Trust Networking"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Advanced Real Time Threat Monitoring & Analytic"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "prediksiAnggaran": null,
+          "sumberDana": null,
+          "progressTindakLanjut": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "-"
+                }
+              ]
+            }
+          ],
+          "risikoDanHambatan": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Kendala Utama Program:",
+                  "type": "text",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Memastikan solusi yang sedang dikaji saat ini sesuai dengan kebutuhan pasar (Defence Sector dan Commercial Sector)"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Memetakan kebutuhan SDM saat ini untuk melakukan proses product knowledge sampai dengan proses transfer teknologi dan kebutuhan member untuk AstaCipta itu sendiri"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Dengan Partner yang ada saat ini, masih adanya penyelarasan Point of View terkait dengan POC atau beauty contest sehingga saat ini masih belum bisa untuk mengambil keputusan untuk : "
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "a. Partner butuh mengetahui kebutuhan market untuk project yang berpotensial kedepannya. untuk penerapan cyber security pada asta cita lainnya dalam hal penguatan secure communication systems butuhnya koordinasi bersama untuk memetakan diagram produk dan teknologi yang dipakai saat ini."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "b. Untuk solusi Centralized SOC dikarenakan menggunakan pendekatan RDCS (Result-Driven Cyber Security), sehingga pada proses awal implementasi Layanan/ Product akan selalu dilakukan assessment mencari NTE (Non Tolerable Events) dari kustomer bahkan jika akan dilakukan POC (Proof of Concept)  dimana waktu yang dibutuhkan cukup relatif lama antara 12 Bulan s/d 18 Bulan."
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": "Risiko Utama Program :",
+                  "bold": true
+                }
+              ]
+            },
+            {
+              "type": "list",
+              "format": "ordered",
+              "children": [
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Sulit menemukan solusi yang tepat, solusi keamanan harus efektif dan tepat sasaran sesuai dengan marketnya."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Keterbatasan Anggaran dan sumber daya"
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Risiko kehilangan data dan reputasi : Jika data bocor, perusahaan bisa kehilangan kepercayaan pelanggan."
+                    }
+                  ]
+                },
+                {
+                  "type": "list-item",
+                  "children": [
+                    {
+                      "type": "text",
+                      "text": "Peraturan yang rumit dan berubah-ubah : Perusahaan harus selalu mengikuti aturan keamanan yang terus diperbarui.Ancaman yang terus berubah : Serangan baru terus muncul sehingga harus memiliki pengembangan dan solusi produk yang dinamis dan berkembang."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "createdAt": "2025-09-30T08:50:06.340Z",
+          "updatedAt": "2025-09-30T08:50:06.340Z",
+          "publishedAt": "2025-09-30T08:50:06.434Z",
+          "locale": "en"
+        },
+        "meta": {}
+      }
+    }
+  }
+]

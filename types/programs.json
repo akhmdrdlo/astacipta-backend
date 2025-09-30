@@ -1,0 +1,6484 @@
+[
+  {
+    "id": 1,
+    "documentId": "cruxjs7203hp4yavi6az770h",
+    "namaProgram": "Electrooptic & Sensor Technology",
+    "slug": "electrooptic-and-sensor-technology",
+    "PICProgram": "I Made Sandika Dwiantara, S.T",
+    "deskripsiProgram": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Ketergantungan yang tinggi terhadap produk sensor dan optik impor menciptakan kerentanan strategis bagi pertahanan nasional. Untuk mengatasi hal ini, program ini diinisiasi untuk membangun kemampuan riset dan produksi teknologi sensor kunci secara mandiri di dalam negeri."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Tujuan program adalah untuk mengembangkan dan menghasilkan prototipe fungsional dari sistem night vision generasi terbaru dan thermal imager yang memenuhi standar militer, serta membangun fondasi untuk produksi massal di masa depan."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Keberhasilan program ini akan secara signifikan mengurangi ketergantungan impor, meningkatkan kemampuan tempur malam hari bagi prajurit TNI, dan membuka potensi ekspor teknologi pertahanan ke pasar regional."
+          }
+        ]
+      }
+    ],
+    "cakupanProgram": [
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Riset dan pengembangan material semikonduktor untuk sensor inframerah."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Desain dan fabrikasi sistem optik presisi untuk aplikasi night vision dan termal."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pengembangan perangkat lunak pemrosesan citra (image processing) untuk meningkatkan kualitas gambar."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Integrasi sistem sensor ke dalam platform genggam (handheld) dan weapon-mounted."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "prediksiAnggaran": "8000000000",
+    "sumberDana": "APBN",
+    "progressTindakLanjut": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Melalui Step by Step yaitu :"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Review Peluang Bisnis Internal"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pengiriman RFI & NDA"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Review Peluang Bisnis (Potensi Kebutuhan Investasi)"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Fasilitas Production Preparation"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyusunan Kajian"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pengujian Bersama"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Sertifikasi Prototype"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kunjungan Menhan"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penandatanganan Joint Development Agreement"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Joint Development Establishment"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Note!",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "List Fasilitas Production yang available :"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "SMT Production Line"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Mikroskop Inspeksi (sedang proses pengadaan)"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kalibrator Optic (sedang proses pengadaan)"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Cleaning Room"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Assembling Room"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Adjustment & Alignment Room"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dark Room"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "risikoDanHambatan": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Geopolitik dan Sanksi",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Penyebab ",
+            "bold": true
+          },
+          {
+            "type": "text",
+            "text": ": Beberapa komponen sensor kunci belum dapat diproduksi di dalam negeri dan memiliki rantai pasok yang terbatas secara global."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Dampak :",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi keterlambatan jadwal produksi massal jika terjadi embargo atau gangguan logistik internasional."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Peningkatan biaya produksi akibat fluktuasi kurs dan biaya impor."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Mitigasi :",
+            "type": "text",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Melakukan diversifikasi pemasok dari beberapa negara yang berbeda."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Mendorong riset dan pengembangan substitusi komponen kunci melalui kerja sama dengan universitas dan lembaga riset nasional."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Kegagalan Investasi",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Penyebab ",
+            "bold": true
+          },
+          {
+            "type": "text",
+            "text": ": Perbandingan antara penjualan di pasar dan jumlah investasi yang sudah dikeluarkan tidak imbang/terjadi kerugian."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Dampak :",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Perubahan aliran keuangan perusahaan/cashflow sehingga memengaruhi perhitungan investasi."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Mitigasi :",
+            "type": "text",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Perhitungan investasi yang matang"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pemilihan vendor dan principal yang tepat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Operasional",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Penyebab ",
+            "bold": true
+          },
+          {
+            "type": "text",
+            "text": ": Gangguan dalam rantai pasokan bahan baku atau peralatan dan Keterlambatan dalam penyelesaian pembangunan fastprod atau pengadaan mesin"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Dampak :",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Keterlambatan produksi dan dapat menurunkan profitabilitas"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Mitigasi :",
+            "type": "text",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Memilih alternatif supplier"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Memastikan efisiensi proses "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-09-18T08:09:29.567Z",
+    "updatedAt": "2025-09-18T08:12:07.456Z",
+    "publishedAt": "2025-09-18T08:12:07.911Z",
+    "locale": "en",
+    "gambarUtama": {
+      "id": 12,
+      "documentId": "u6cmb4jfw9moe6s0l0ej243j",
+      "name": "electrooptic.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1256,
+      "height": 756,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_electrooptic.jpg",
+          "hash": "thumbnail_electrooptic_19b5e85df4",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 245,
+          "height": 147,
+          "size": 8.52,
+          "sizeInBytes": 8520,
+          "url": "/uploads/thumbnail_electrooptic_19b5e85df4.jpg"
+        },
+        "large": {
+          "name": "large_electrooptic.jpg",
+          "hash": "large_electrooptic_19b5e85df4",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 1000,
+          "height": 602,
+          "size": 64.61,
+          "sizeInBytes": 64612,
+          "url": "/uploads/large_electrooptic_19b5e85df4.jpg"
+        },
+        "medium": {
+          "name": "medium_electrooptic.jpg",
+          "hash": "medium_electrooptic_19b5e85df4",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 750,
+          "height": 451,
+          "size": 42.28,
+          "sizeInBytes": 42280,
+          "url": "/uploads/medium_electrooptic_19b5e85df4.jpg"
+        },
+        "small": {
+          "name": "small_electrooptic.jpg",
+          "hash": "small_electrooptic_19b5e85df4",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 500,
+          "height": 301,
+          "size": 23.66,
+          "sizeInBytes": 23660,
+          "url": "/uploads/small_electrooptic_19b5e85df4.jpg"
+        }
+      },
+      "hash": "electrooptic_19b5e85df4",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 92.58,
+      "url": "/uploads/electrooptic_19b5e85df4.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-09-18T07:17:49.994Z",
+      "updatedAt": "2025-09-18T07:17:49.994Z",
+      "publishedAt": "2025-09-18T07:17:49.997Z"
+    },
+    "Mitra": [
+      {
+        "id": 5,
+        "namaInstansi": "LEMT Belomo",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-02",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MOU"
+      },
+      {
+        "id": 6,
+        "namaInstansi": "Theon International",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-09",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "NDA"
+      },
+      {
+        "id": 7,
+        "namaInstansi": "Aselsan",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-09",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MOU"
+      },
+      {
+        "id": 8,
+        "namaInstansi": "Safran",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-09-18",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Belum Dikonfirmasi"
+      }
+    ],
+    "Roadmap": [
+      {
+        "id": 2,
+        "judulRoadmap": null
+      }
+    ],
+    "MitraPotensial": [],
+    "PasarPotensial": [
+      {
+        "id": 4,
+        "namaInstansi": "TNI AD - Infanteri",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kebutuhan NVG : 39.278 Unit seharga Rp.4.916.375.805.820"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kebutuhan Thermal : 9.157 Unit seharga Rp.3.910.397.954.400"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "namaInstansi": "MABES TNI",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kebutuhan NVG Thermal : 80 Unit seharga Rp.88.067.120.000"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kebutuhan NVG Infra Red : 80 Unit seharga Rp.23.093.360.000"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "namaInstansi": "Satuan KOPASSUS",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kebutuhan NVG NVLS Minimus Bino Light 4G Photonis : 1102 Set seharga Rp.1.245.450.000.000"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kebutuhan NVG Thermal - Fusion Clip On View Optical Sight : 1105 Set seharga Rp.719.400.000.000"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dokumenTerkait": null,
+    "produks": [
+      {
+        "id": 3,
+        "documentId": "rzexvz9bexpmufekep1l55vg",
+        "createdAt": "2025-09-23T07:19:09.343Z",
+        "updatedAt": "2025-09-23T07:20:53.106Z",
+        "publishedAt": "2025-09-23T07:20:53.234Z",
+        "locale": "en",
+        "namaProduk": "Night Vision Monocular Netra M-1",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Netra M-1 adalah NVD Generasi ke 4 dengan alat pengamat visi malam yang portable dan ringan.Didesain khusus untuk operasi di dalam kompleks dengan IR Designators, Illmunitaros dan Red Dots."
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Night Vision Channel",
+                "bold": true
+              }
+            ],
+            "level": 3
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Image Intensifier Tube : GEN.4"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Limiting Resolution : 68 lp/mm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "FOM : > 2000"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Luminuous, min : 2000 pA/lm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Radiant (850 nm), min : 19 mA/W"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "Objective Lens",
+                "bold": true
+              }
+            ],
+            "level": 3
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Optical Magnification : 1x"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Focal Distance (objective lens) : 26.4 mm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Lens Shift : f/1.2"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Luminuous, min : 0.25 m to ∞"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Field of View : 39°"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Overall Dimensions : 166 x 52 x 76 mm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Weight : 0.36 kg"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "System Parameters",
+                "bold": true
+              }
+            ],
+            "level": 3
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Image Intensifier Waranty Resource : 10.000 hours"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Continuous Operation Time : > 10 hours"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Power Supply : 1 x AA battery"
+              }
+            ]
+          },
+          {
+            "type": "heading",
+            "children": [
+              {
+                "type": "text",
+                "text": "General Parameter",
+                "bold": true
+              }
+            ],
+            "level": 3
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Operating Temperature Range : -40° to +50° C"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Protection Level : IP 67"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Diopter Adjustment Range : -6 to +2 dptr"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Integrated IR Illuminator : +"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Light Overload Sensor : + "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Automatic Light Overload Switch Off Function : +"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Low Battery Indication (Battery Discharge) : +"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Polarity Mistake Protection (any polarity insertion( : +"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Additional Features : "
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Filmless Ga AS"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "External Gain Control"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Have thinner iron coats on their photo cathodes, this coat improves their amplification of ambient light"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Picatinny mount available (Picatinny rail MIL-STD 1913 mount)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Detection Range Dark Situation : 500 yard"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Detection Range Very Dark SItuation : Yes"
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": "-"
+      },
+      {
+        "id": 6,
+        "documentId": "e5w38at52sdd6b4n38lpcv07",
+        "createdAt": "2025-09-24T07:33:12.832Z",
+        "updatedAt": "2025-09-24T07:37:06.331Z",
+        "publishedAt": "2025-09-24T07:37:06.431Z",
+        "locale": "en",
+        "namaProduk": "Thermal & Night Vision /KS-2",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Perangkat monokular canggih yang menyatukan dua teknologi penglihatan superior, yaitu termal dan penglihatan malam (night vision), dalam satu alat yang ringkas. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dengan kemampuan dua saluran, pengguna mendapatkan keuntungan taktis yang luar biasa karena dapat melihat dunia melalui deteksi panas (termal) untuk menemukan target yang tersembunyi, sekaligus melihat dalam kondisi gelap gulita dengan memperkuat cahaya sekitar (penglihatan malam). "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Fleksibilitas ini menjadikannya ideal untuk berbagai misi, mulai dari mendeteksi dan mengidentifikasi ancaman dari jarak jauh, membantu proses membidik dengan akurasi tinggi di malam hari, memandu navigasi di medan yang sulit, hingga memberikan keunggulan krusial dalam operasi pertempuran jarak dekat (CQB) yang serba cepat. "
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Perangkat ini juga dilengkapi kemampuan untuk menandai target secara rahasia menggunakan iluminator inframerah (IR), yang tak terlihat oleh mata telanjang. Untuk menunjang semua kemampuannya di lapangan, alat ini ditenagai oleh baterai internal yang praktis dan dapat diisi ulang kembali."
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "NIGHT VISION CHANNEL",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Image Intensifier: Gen 2+/Gen 3 (by Customer's Request)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Magnification: 1x"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Focal distance: 27.4 mm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "FOV: 33.5°"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Detection range (human): 200 m"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Recognition range (human): 100 m"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "THERMAL VISION CHANNEL",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Type of sensor: Uncooled microbolomether"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Sensor resolution: 384x288"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pixel size: 17 mkm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Frequency rate: 25 Hz"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Spectral range:8-12 mkm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Magnification:  1x"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "FOV: 23.5° x 18.1°"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Focal distance: 15 mm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Detection range (human): 600 m"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Recognition range (human): 250 m"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "DISPLAY",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Resolution: 800-600"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ocular diopter adjustment range: 2+2 dptr"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "GENERAL PARAMETERS",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Operating temperature range: -20 °C...+50 °C"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Protection level: IPXS"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Overall dimensions: 165 x 100 x 70 mm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Weight of the Monocular:  0.7kg"
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      }
+    ],
+    "localizations": []
+  },
+  {
+    "id": 4,
+    "documentId": "u74rq3l3cpx800jep87mxe8p",
+    "namaProgram": "Artificial Intelligence",
+    "slug": "artificial-intelligence",
+    "PICProgram": "Ilham Nugraha",
+    "deskripsiProgram": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Pengembangan sistem automasi berbasis kecerdasan buatan berupa produk :"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Maritime Situational Awareness"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Imaginary Analysis"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "AI Driven Threat Analytic (NextG SOC)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "cakupanProgram": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "---"
+          }
+        ]
+      }
+    ],
+    "prediksiAnggaran": null,
+    "sumberDana": null,
+    "progressTindakLanjut": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Aktivasi AI Lab Rintisan"
+          }
+        ]
+      }
+    ],
+    "risikoDanHambatan": [
+      {
+        "type": "list",
+        "format": "unordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Komitmen Mitra yang menyatakan perbedaan prioritas"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Keterbatasan Funding yang menyebabkan proses pengembangan terhambat dan banyak kompetitor"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Strategi Penyusuna Roadmap yang terganggu akibat perbedaan kepentingan serta pandangan antar stakeholder"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Perbedaan Interest arah Riset antara tiap universitas yang memiliki fokus yang berbeda dengan kebutuhan perusahaan"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Keterbatasan Data Nasional dikarenakan tidak ada satu data resources nasional yang mumpuni"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Risiko perubahan kebijakan dan regulasi yang mengakibatkan program dapat terdampak atas perubahan"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-09-19T02:54:53.639Z",
+    "updatedAt": "2025-09-19T02:57:45.837Z",
+    "publishedAt": "2025-09-19T02:57:46.175Z",
+    "locale": "en",
+    "gambarUtama": {
+      "id": 15,
+      "documentId": "mgkdktrhbes3j3tlt8shxswm",
+      "name": "AImilitary.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 720,
+      "height": 404,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_AImilitary.png",
+          "hash": "thumbnail_A_Imilitary_f7db15af37",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 245,
+          "height": 137,
+          "size": 89.78,
+          "sizeInBytes": 89780,
+          "url": "/uploads/thumbnail_A_Imilitary_f7db15af37.png"
+        },
+        "small": {
+          "name": "small_AImilitary.png",
+          "hash": "small_A_Imilitary_f7db15af37",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 500,
+          "height": 281,
+          "size": 350.47,
+          "sizeInBytes": 350474,
+          "url": "/uploads/small_A_Imilitary_f7db15af37.png"
+        }
+      },
+      "hash": "A_Imilitary_f7db15af37",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 151.35,
+      "url": "/uploads/A_Imilitary_f7db15af37.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-09-18T07:18:36.944Z",
+      "updatedAt": "2025-09-18T07:18:36.944Z",
+      "publishedAt": "2025-09-18T07:18:36.945Z"
+    },
+    "Mitra": [
+      {
+        "id": 19,
+        "namaInstansi": "Universitas Diponegoro",
+        "kategori": "Institusi Pendidikan",
+        "tahunKerjasama": "2025-05-14",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Draft MOU"
+      },
+      {
+        "id": 20,
+        "namaInstansi": "Politeknik Negeri Bandung",
+        "kategori": "Institusi Pendidikan",
+        "tahunKerjasama": "2025-05-08",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Penjajakan"
+      },
+      {
+        "id": 21,
+        "namaInstansi": "Telkom University",
+        "kategori": "Institusi Pendidikan",
+        "tahunKerjasama": "2025-05-08",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Penjajakan"
+      },
+      {
+        "id": 22,
+        "namaInstansi": "Inspur",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-06",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "NDA"
+      },
+      {
+        "id": 23,
+        "namaInstansi": "No Limit Indonesia",
+        "kategori": "Instansi Dalam Negeri",
+        "tahunKerjasama": "2025-05-15",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Draft NDA"
+      },
+      {
+        "id": 24,
+        "namaInstansi": " PT. Indocode Technology",
+        "kategori": "Instansi Dalam Negeri",
+        "tahunKerjasama": "2025-05-16",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Draft NDA"
+      },
+      {
+        "id": 25,
+        "namaInstansi": "Altair Engineering Inc",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-09-10",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Penjajakan"
+      },
+      {
+        "id": 26,
+        "namaInstansi": "B5 Company",
+        "kategori": "Instansi Dalam Negeri",
+        "tahunKerjasama": "2025-09-18",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Penjajakan"
+      }
+    ],
+    "Roadmap": [
+      {
+        "id": 10,
+        "judulRoadmap": null
+      }
+    ],
+    "MitraPotensial": [],
+    "PasarPotensial": [
+      {
+        "id": 16,
+        "namaInstansi": "Kementrian Pertahanan",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pemanfaatan produk "
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Maritime Situational Awareness untuk menjaga keselamatan dan keamanan ekspedisi laut"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Imaginary Analysis untuk mendeteksi adanya bahaya atau ancaman atau fenomena di darat maupun di laut"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "AI Driven Threat Analytic untuk melindungi informasi yang bersifat strategis, rahasia dan vital bagi keamanan nasional."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "namaInstansi": "BASARNAS",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pemanfaatan produk "
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Maritime Situational Awareness untuk menjaga keselamatan dan keamanan ekspedisi laut"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "namaInstansi": "Kementrian Kelautan dan Perikanan",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pemanfaatan produk "
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Maritime Situational Awareness untuk menjaga keselamatan dan keamanan ekspedisi laut"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "namaInstansi": "Direktorat Jenderal Hubungan Kelautan",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pemanfaatan produk "
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Maritime Situational Awareness untuk menjaga keselamatan dan keamanan ekspedisi laut"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "namaInstansi": "Kementerian Pertanian",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pemanfaatan produk "
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Imaginary Analysis untuk memonitoring adanya gangguan terhadap sektor pertanian di darat"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "namaInstansi": "Badan Intelijen Negara",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pemanfaatan produk "
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Imaginary Analysis untuk melakukan monitoring serta membantu proses pengintaian atau espionase."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "namaInstansi": "Badan Siber dan Sandi Negara (BSSN)",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pemanfaatan produk "
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "AI Driven Threat Analytic untuk menjaga keselamatan dan keamanan data yang strategis, privat dan vital bagi keamanan negara"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dokumenTerkait": null,
+    "produks": [
+      {
+        "id": 19,
+        "documentId": "wo8m0bpuqdpab120b1dfrhmu",
+        "createdAt": "2025-09-25T03:29:19.915Z",
+        "updatedAt": "2025-09-25T03:40:33.140Z",
+        "publishedAt": "2025-09-25T03:40:33.290Z",
+        "locale": "en",
+        "namaProduk": "Maritime Situational Awareness AI",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kemampuan untuk mendeteksi dan mprediksi akivitas di wilayah maritim guna mendukung pengambilan keputusan yang tepat dalam menjaga keamanan, keselamatan dan kelancaran aktivitas di laut."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Joint Team : Astacita C2, Satellite dan Radar"
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      },
+      {
+        "id": 16,
+        "documentId": "kw7jro1melnska3801ry5c78",
+        "createdAt": "2025-09-25T03:34:17.721Z",
+        "updatedAt": "2025-09-25T03:34:17.721Z",
+        "publishedAt": "2025-09-25T03:34:17.806Z",
+        "locale": "en",
+        "namaProduk": "Imaginary Analysis",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Analisis dan interpretasi citra visual, baik dari satelit, pesawat, drone, maupun sensor lainnya untuk mendeteksi objek, fenomena, atau perubahan di darat maupun di laut meliputi Object Recognition & Land and Maritime Observation"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Join Team : Astacita C2 & Remote Sensing"
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      },
+      {
+        "id": 18,
+        "documentId": "jiar0d81tplgd5crd9vqt7q3",
+        "createdAt": "2025-09-25T03:39:20.714Z",
+        "updatedAt": "2025-09-25T03:39:20.714Z",
+        "publishedAt": "2025-09-25T03:39:20.803Z",
+        "locale": "en",
+        "namaProduk": "AI Drive Threat Analytic (NextG SOC)",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pendeteksi aktivitas anomali di dalam lalu lintas jaringan dalam rangka melinduni informasi yang bersifat strateis, rahasia & vital bagi keamanan nasional & infrastruktur kritis"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Join Team  : Astacita Cyber Security"
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      }
+    ],
+    "localizations": []
+  },
+  {
+    "id": 7,
+    "documentId": "h9wmdfxihb3r3ky1635qg24r",
+    "namaProgram": "Satellite & Remote Sensing Technology",
+    "slug": "satellite-and-remote-sensing-technology",
+    "PICProgram": "Laksono Widyo Isworo",
+    "deskripsiProgram": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Membangun kapabilitas analisa data citra satelit dan membangun AI Model untuk keperluan Intelligence, Surveillance, and Reconnaissance (ISR) untuk mendukung proyek Sathan."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Serta menyediakan pemodelan kebutuhan konstelasi satelit EO untuk seluruh Indonesia"
+          }
+        ]
+      }
+    ],
+    "cakupanProgram": [
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Space Segments"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "End Services"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "prediksiAnggaran": null,
+    "sumberDana": null,
+    "progressTindakLanjut": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Rencana Tindak Lanjut : ",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bersama Hanwha , mendiskusikan Technology Principal Nano Satellite"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bersama Plan S, mendiskusikan tentang lanjutan dari proposal yang dikirimkan mengenai RFP 1 nano satelit untuk proyek sathan"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Bersama Planet Labs dan EarthDaily, melakukan analisis mendalam mengenai model berlangganan dan komposisi layanan yang dibutuhkan untuk membangun kapabilitas penggunaan data analitik untuk ISR"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "risikoDanHambatan": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "-"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-09-19T07:26:57.754Z",
+    "updatedAt": "2025-09-23T03:13:17.312Z",
+    "publishedAt": "2025-09-23T03:13:17.710Z",
+    "locale": "en",
+    "gambarUtama": {
+      "id": 23,
+      "documentId": "z477wqya6tk5ijw2w2yvok0i",
+      "name": "remotesensing.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 543,
+      "height": 644,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_remotesensing.jpg",
+          "hash": "thumbnail_remotesensing_df98a1af26",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 131,
+          "height": 156,
+          "size": 4.34,
+          "sizeInBytes": 4344,
+          "url": "/uploads/thumbnail_remotesensing_df98a1af26.jpg"
+        },
+        "small": {
+          "name": "small_remotesensing.jpg",
+          "hash": "small_remotesensing_df98a1af26",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 422,
+          "height": 500,
+          "size": 41.41,
+          "sizeInBytes": 41405,
+          "url": "/uploads/small_remotesensing_df98a1af26.jpg"
+        }
+      },
+      "hash": "remotesensing_df98a1af26",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 52.77,
+      "url": "/uploads/remotesensing_df98a1af26.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-09-18T07:18:50.114Z",
+      "updatedAt": "2025-09-18T07:18:50.114Z",
+      "publishedAt": "2025-09-18T07:18:50.114Z"
+    },
+    "Mitra": [
+      {
+        "id": 73,
+        "namaInstansi": "Hanwha System",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-07",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pengembangan serta perancang SAR Satellites"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "-"
+      },
+      {
+        "id": 74,
+        "namaInstansi": "Plan S",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-10",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pengembangan serta Perancangan sistem Nano Satellites"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "-"
+      },
+      {
+        "id": 75,
+        "namaInstansi": "Planet Labs Group",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-08",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyedia fasilitas layanan konstelasi planet untuk observatorium"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "-"
+      },
+      {
+        "id": 76,
+        "namaInstansi": "Earth Daily Analytics",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-13",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyedia fasilitas layanan konstelasi planet untuk observatorium"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "-"
+      },
+      {
+        "id": 77,
+        "namaInstansi": "DeltaV",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-15",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyediaan serta pengembangan fasilitas Space Launch System dan Sounding Rockets"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "-"
+      }
+    ],
+    "Roadmap": [
+      {
+        "id": 19,
+        "judulRoadmap": null
+      },
+      {
+        "id": 20,
+        "judulRoadmap": null
+      }
+    ],
+    "MitraPotensial": [],
+    "PasarPotensial": [],
+    "dokumenTerkait": null,
+    "produks": [
+      {
+        "id": 31,
+        "documentId": "q2r6d3od9lo8hnqesi8l4lsm",
+        "createdAt": "2025-09-25T07:41:04.460Z",
+        "updatedAt": "2025-09-25T07:41:04.460Z",
+        "publishedAt": "2025-09-25T07:41:04.547Z",
+        "locale": "en",
+        "namaProduk": "Multi Sensor Earth Observation Decision Support System",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Strategi Produk:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Membangun kapabilitas analisa data citra satelit & membangun "
+              },
+              {
+                "type": "text",
+                "text": "AI mode;l ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "untuk keperluan"
+              },
+              {
+                "type": "text",
+                "text": " Intelligence, Surveilance, Reconnasissance (ISR)",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": " untuk mendukung proyek Sathan."
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Optimalisasi layanan konstelasi "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Blacksky ",
+                    "italic": true
+                  },
+                  {
+                    "type": "text",
+                    "text": "di proyek Sathan."
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Mengkombinasikan data layanan konstelasi dari beberapa technology principal"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "text": "Market Research ",
+                "type": "text",
+                "italic": true
+              },
+              {
+                "text": "terkait konsumen potensial data analytics citra satelit di bidang lainnya",
+                "type": "text"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pengembangan "
+              },
+              {
+                "type": "text",
+                "text": "AI Model ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "atau kapabilitas"
+              },
+              {
+                "type": "text",
+                "text": " data analytic ",
+                "italic": true
+              },
+              {
+                "type": "text",
+                "text": "yang spesifik sesuai tipe konsumennya."
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      },
+      {
+        "id": 33,
+        "documentId": "g7jej2h0n0rjn8d87n3r4yde",
+        "createdAt": "2025-09-25T07:43:53.289Z",
+        "updatedAt": "2025-09-25T07:43:53.289Z",
+        "publishedAt": "2025-09-25T07:43:53.360Z",
+        "locale": "en",
+        "namaProduk": "Layanan Konstelasi Nano Satellite untuk keperluan Earth Observation",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Strategi Produk:",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pemodelan kebuhan konstelasi satelit EO untuk wilayah Indonsia"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Identifikasi & pemilihan technology principal"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Tahap awal menyediakan 1 unit "
+                  },
+                  {
+                    "text": "Nano Satellite",
+                    "type": "text",
+                    "italic": true
+                  },
+                  {
+                    "text": " di proyek Sathan",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      }
+    ],
+    "localizations": []
+  },
+  {
+    "id": 2,
+    "documentId": "epnpfsf5yfjakt8rp66ql3fx",
+    "namaProgram": "Tactical Communication & NCW",
+    "slug": "tactical-communication-and-ncw",
+    "PICProgram": "-",
+    "deskripsiProgram": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Membuat perangkat keras jaringan yang menyediakan jalur komunikasi yang luas baik itu dalam aspek kemiliteran maupun maritim"
+          }
+        ]
+      }
+    ],
+    "cakupanProgram": [
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Tactical Data Link"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Combat Management System (CMS)"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Command Control System (CCS)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "prediksiAnggaran": "-",
+    "sumberDana": "-",
+    "progressTindakLanjut": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Sudah berjalan melakukan modernisasi kapal sejak tahun 2024"
+          }
+        ]
+      }
+    ],
+    "risikoDanHambatan": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Butuh bantuan untuk melancarkan pasokan bahan yang berhubungan dnegan product development dan delivery yang sudah direncanakan di anggaran proyek"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Competency Development yang mendukung roadmap produk"
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-09-18T09:10:42.929Z",
+    "updatedAt": "2025-09-24T08:31:29.583Z",
+    "publishedAt": "2025-09-24T08:31:29.910Z",
+    "locale": "en",
+    "gambarUtama": {
+      "id": 27,
+      "documentId": "q1vcqb4phh8gg6n3tlfxnsn2",
+      "name": "taccom.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 300,
+      "height": 168,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_taccom.jpg",
+          "hash": "thumbnail_taccom_893610617a",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 245,
+          "height": 137,
+          "size": 7.97,
+          "sizeInBytes": 7973,
+          "url": "/uploads/thumbnail_taccom_893610617a.jpg"
+        }
+      },
+      "hash": "taccom_893610617a",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 9.4,
+      "url": "/uploads/taccom_893610617a.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-09-18T07:18:55.323Z",
+      "updatedAt": "2025-09-18T07:18:55.323Z",
+      "publishedAt": "2025-09-18T07:18:55.324Z"
+    },
+    "Mitra": [
+      {
+        "id": 89,
+        "namaInstansi": "Havelsan",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-11",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyediaan CMS untuk Modernisasi KRI HIU"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MOU"
+      },
+      {
+        "id": 90,
+        "namaInstansi": "RapidM",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-16",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Belum Diketahui"
+      },
+      {
+        "id": 91,
+        "namaInstansi": "Rohde & Schwarz",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-16",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Belum Diketahui"
+      },
+      {
+        "id": 92,
+        "namaInstansi": "Dinas Penelitian dan Pengembangan Angkatan Laut",
+        "kategori": "Instansi Dalam Negeri",
+        "tahunKerjasama": "2025-05-15",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Litbang Angkatan"
+      },
+      {
+        "id": 93,
+        "namaInstansi": "Dinas Penelitian dan Pengembangan Angkatan Udara",
+        "kategori": "Instansi Dalam Negeri",
+        "tahunKerjasama": "2025-05-21",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Litbang Angkatan"
+      },
+      {
+        "id": 94,
+        "namaInstansi": "Pusat Perhatubungan Angkatan DAr",
+        "kategori": "Instansi Dalam Negeri",
+        "tahunKerjasama": "2025-05-13",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Litbang Angkatan"
+      }
+    ],
+    "Roadmap": [
+      {
+        "id": 24,
+        "judulRoadmap": "Roadmap CMS LEN"
+      },
+      {
+        "id": 25,
+        "judulRoadmap": "Roadmap Tactical Data Link"
+      },
+      {
+        "id": 26,
+        "judulRoadmap": "Roadmap Command Control System"
+      }
+    ],
+    "MitraPotensial": [],
+    "PasarPotensial": [
+      {
+        "id": 58,
+        "namaInstansi": "Kementrian Pertahanan",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Modernisasi Kapal Perang"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dokumenTerkait": [
+      {
+        "id": 111,
+        "documentId": "jqkkc1rrqw46psxmqlmmizmi",
+        "name": "roadmapncw0.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1054,
+        "height": 591,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_roadmapncw0.png",
+            "hash": "thumbnail_roadmapncw0_c78f7292aa",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 245,
+            "height": 137,
+            "size": 48.26,
+            "sizeInBytes": 48263,
+            "url": "/uploads/thumbnail_roadmapncw0_c78f7292aa.png"
+          },
+          "small": {
+            "name": "small_roadmapncw0.png",
+            "hash": "small_roadmapncw0_c78f7292aa",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 500,
+            "height": 280,
+            "size": 144.85,
+            "sizeInBytes": 144845,
+            "url": "/uploads/small_roadmapncw0_c78f7292aa.png"
+          },
+          "medium": {
+            "name": "medium_roadmapncw0.png",
+            "hash": "medium_roadmapncw0_c78f7292aa",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 750,
+            "height": 421,
+            "size": 271.33,
+            "sizeInBytes": 271329,
+            "url": "/uploads/medium_roadmapncw0_c78f7292aa.png"
+          },
+          "large": {
+            "name": "large_roadmapncw0.png",
+            "hash": "large_roadmapncw0_c78f7292aa",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 1000,
+            "height": 561,
+            "size": 428.67,
+            "sizeInBytes": 428666,
+            "url": "/uploads/large_roadmapncw0_c78f7292aa.png"
+          }
+        },
+        "hash": "roadmapncw0_c78f7292aa",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 118.64,
+        "url": "/uploads/roadmapncw0_c78f7292aa.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-09-24T08:30:18.078Z",
+        "updatedAt": "2025-09-24T08:30:18.078Z",
+        "publishedAt": "2025-09-24T08:30:18.079Z"
+      }
+    ],
+    "produks": [
+      {
+        "id": 8,
+        "documentId": "jbzb6o6xvuw7ww3s979ahost",
+        "createdAt": "2025-09-24T08:21:35.010Z",
+        "updatedAt": "2025-09-24T08:21:35.010Z",
+        "publishedAt": "2025-09-24T08:21:35.098Z",
+        "locale": "en",
+        "namaProduk": "AXYS -  Combat Management System",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Generasi Kedua dari CMS Mandhala dengan teknologi dan arsitektur terbaru "
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Porting Existing Capability"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Performance Improvisation"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Situational Awareness System"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Tactical Functionality"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Warfare Functionality"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Network Centric Ready"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Sensor and Weapon Ready"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "UAV Control Integration"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Artificial Intelligence Technology"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "More Durable"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "More Advanced"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "linkInformasi": "-"
+      },
+      {
+        "id": 12,
+        "documentId": "qjyafi76h5axs1774kj4gn7e",
+        "createdAt": "2025-09-24T08:29:32.152Z",
+        "updatedAt": "2025-09-24T08:35:03.127Z",
+        "publishedAt": "2025-09-24T08:35:03.218Z",
+        "locale": "en",
+        "namaProduk": "LINK ID",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Sistem komunikasi data taktis (Tactical Data Link - TDL) yang dikembangkan oleh PT Len Industri (Persero) sebagai jawaban atas kebutuhan strategis Indonesia untuk memiliki standar TDL yang mandiri dan berdaulat."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pada dasarnya, LINK ID berfungsi sebagai \"jaringan\" yang menghubungkan berbagai platform tempur (alutsista) seperti pesawat tempur, kapal perang, kapal selam, kendaraan darat, dan pos komando. Tujuannya adalah untuk memungkinkan semua unit tersebut saling berkomunikasi dan bertukar data taktis secara real-time dan aman."
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Fitur Unggulan (Features):",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kemandirian & Keamanan: Implementasi standar TDL nasional menjamin kemandirian teknologi, kemudahan penggunaan, dan keamanan data yang bebas dari risiko embargo dari negara lain."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Manajemen Pelacakan (Track Management): Mampu mengelola dan mendistribusikan berbagai jenis data lacak, termasuk posisi platform sendiri, target di permukaan, udara, darat, bawah air, hingga deteksi dari sensor akustik dan peperangan elektronika (Electronic Warfare)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Enkripsi Terintegrasi: Keamanan komunikasi dijamin oleh sistem enkripsi data yang tertanam langsung di dalam perangkat lunak."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jangkauan Komunikasi Luas: Mendukung komunikasi dalam berbagai skenario"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Line of Sight (LOS): Komunikasi langsung tanpa halangan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Extended Line of Sight (ELOS): Jangkauan lebih jauh dari LOS."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Beyond Line of Sight (BLOS): Komunikasi jarak sangat jauh melampaui cakrawala, menggunakan kombinasi radio V/UHF dan HF."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dukungan Jaringan Fleksibel: Memungkinkan unit yang terlambat untuk bisa bergabung ke dalam jaringan yang sudah aktif (late network entry) dan memiliki fitur relay untuk menjembatani komunikasi antar unit yang terpisah jauh."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jenis Pertukaran Data (Data Exchange):",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Data Platform Sendiri: Posisi, status, dan kondisi unit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Data Jejak Pengawasan: Informasi target yang dideteksi oleh radar atau sensor lain."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Titik Referensi & Area Taktis: Koordinat atau area penting di medan tempur."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Perintah/Komando Taktis: Instruksi yang diberikan dari pusat komando ke unit di lapangan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Koordinasi Penyerangan: Informasi untuk menyelaraskan serangan antar unit."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Status Keterlibatan Senjata: Laporan status penggunaan sistem senjata."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pelaporan Status: Laporan umum mengenai kondisi unit atau misi."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pesan Teks Bebas: Komunikasi teks untuk informasi tambahan."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Data Peperangan Elektronika: Informasi terkait deteksi sinyal elektronik musuh."
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": "-"
+      }
+    ],
+    "localizations": []
+  },
+  {
+    "id": 4,
+    "documentId": "noc46m7mhtzfhdw3jxo4t43h",
+    "namaProgram": "Semi Conductor",
+    "slug": "semi-conductor",
+    "PICProgram": "Billy Barokah",
+    "deskripsiProgram": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Menjadi penopang ekosistem semikonduktor terintegrasi dan kompetitif secara global, dengan menguasai tahapan kunci mulai dari perancangan (fabless) hingga perakitan dan pengujian akhir (ATP/OSAT), untuk mendukung kemandirian teknologi dan pertumbuhan ekonomi digital"
+          }
+        ]
+      }
+    ],
+    "cakupanProgram": [
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Fabless Model"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Foundries"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Outsourced Semiconductor Assembly and Test"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Assembly, Testing and Packaging"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "prediksiAnggaran": null,
+    "sumberDana": null,
+    "progressTindakLanjut": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "-"
+          }
+        ]
+      }
+    ],
+    "risikoDanHambatan": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Constraint Internal Kegiatan"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dibutuhkan data external berupa market research atau report dari konsultan/penyedia yang reputable."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Risiko Internal Kegiatan"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Analisa dan kajian yang kurang komprehensif/akurat"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyusunan kajian untuk Stakeholder Danantara yang melewati deadline (Agustus)"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Terdapat Stakeholder yang belum teridentifikasi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Risiko Industri"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Belum adanya turunan kebijakan nasional"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dinamika geopolitik dan supply chain global "
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ketergantungan pada Partner dan Teknologi Asing"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Nilai investasi dan cepatnya perubahan teknologi serta proses manufaktur"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-09-19T05:02:23.134Z",
+    "updatedAt": "2025-09-25T06:31:39.241Z",
+    "publishedAt": "2025-09-25T06:31:39.807Z",
+    "locale": "en",
+    "gambarUtama": {
+      "id": 26,
+      "documentId": "fgxesr2ofhmgcjw7ordr74ji",
+      "name": "semi conductor.jpg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1365,
+      "height": 768,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_semi conductor.jpg",
+          "hash": "thumbnail_semi_conductor_d17c9aaa44",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 245,
+          "height": 138,
+          "size": 10.8,
+          "sizeInBytes": 10804,
+          "url": "/uploads/thumbnail_semi_conductor_d17c9aaa44.jpg"
+        },
+        "medium": {
+          "name": "medium_semi conductor.jpg",
+          "hash": "medium_semi_conductor_d17c9aaa44",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 750,
+          "height": 422,
+          "size": 60.28,
+          "sizeInBytes": 60280,
+          "url": "/uploads/medium_semi_conductor_d17c9aaa44.jpg"
+        },
+        "small": {
+          "name": "small_semi conductor.jpg",
+          "hash": "small_semi_conductor_d17c9aaa44",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 500,
+          "height": 281,
+          "size": 32.78,
+          "sizeInBytes": 32783,
+          "url": "/uploads/small_semi_conductor_d17c9aaa44.jpg"
+        },
+        "large": {
+          "name": "large_semi conductor.jpg",
+          "hash": "large_semi_conductor_d17c9aaa44",
+          "ext": ".jpg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 1000,
+          "height": 563,
+          "size": 91.32,
+          "sizeInBytes": 91324,
+          "url": "/uploads/large_semi_conductor_d17c9aaa44.jpg"
+        }
+      },
+      "hash": "semi_conductor_d17c9aaa44",
+      "ext": ".jpg",
+      "mime": "image/jpeg",
+      "size": 117.75,
+      "url": "/uploads/semi_conductor_d17c9aaa44.jpg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-09-18T07:18:54.715Z",
+      "updatedAt": "2025-09-18T07:18:54.715Z",
+      "publishedAt": "2025-09-18T07:18:54.716Z"
+    },
+    "Mitra": [
+      {
+        "id": 99,
+        "namaInstansi": "Kementerian Pendidikan Sains dan Teknologi",
+        "kategori": "Instansi Dalam Negeri",
+        "tahunKerjasama": "2025-05-21",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MoU"
+      },
+      {
+        "id": 100,
+        "namaInstansi": "Indonesia Chip Design Collaborative Center",
+        "kategori": "Instansi Dalam Negeri",
+        "tahunKerjasama": "2025-05-01",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MoU In Progress"
+      },
+      {
+        "id": 101,
+        "namaInstansi": "Inspur Group",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-01",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "NDA"
+      },
+      {
+        "id": 102,
+        "namaInstansi": "PT. Industri Telekomunikasi Indonesia",
+        "kategori": "Instansi Dalam Negeri",
+        "tahunKerjasama": "2025-05-08",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MoU"
+      }
+    ],
+    "Roadmap": [
+      {
+        "id": 28,
+        "judulRoadmap": null
+      }
+    ],
+    "MitraPotensial": [],
+    "PasarPotensial": [
+      {
+        "id": 64,
+        "namaInstansi": "Mediatek Inc",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi menggunakan komponen yang dihasilkan oleh program"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "namaInstansi": "Samsung Inc",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi menggunakan komponen yang dihasilkan oleh program"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "namaInstansi": "NVIDIA Corp.",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi menggunakan komponen yang dihasilkan oleh program"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "namaInstansi": "Toshiba",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi menggunakan komponen yang dihasilkan oleh program"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "namaInstansi": "Apple Co.",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi menggunakan komponen yang dihasilkan oleh program"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dokumenTerkait": [
+      {
+        "id": 122,
+        "documentId": "mdlll85n2r47qfguqc5zukq6",
+        "name": "potensiproduksemcon.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1191,
+        "height": 674,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_potensiproduksemcon.png",
+            "hash": "thumbnail_potensiproduksemcon_2ab7804c11",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 245,
+            "height": 139,
+            "size": 33.02,
+            "sizeInBytes": 33018,
+            "url": "/uploads/thumbnail_potensiproduksemcon_2ab7804c11.png"
+          },
+          "small": {
+            "name": "small_potensiproduksemcon.png",
+            "hash": "small_potensiproduksemcon_2ab7804c11",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 500,
+            "height": 283,
+            "size": 101.95,
+            "sizeInBytes": 101947,
+            "url": "/uploads/small_potensiproduksemcon_2ab7804c11.png"
+          },
+          "medium": {
+            "name": "medium_potensiproduksemcon.png",
+            "hash": "medium_potensiproduksemcon_2ab7804c11",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 750,
+            "height": 424,
+            "size": 187.92,
+            "sizeInBytes": 187923,
+            "url": "/uploads/medium_potensiproduksemcon_2ab7804c11.png"
+          },
+          "large": {
+            "name": "large_potensiproduksemcon.png",
+            "hash": "large_potensiproduksemcon_2ab7804c11",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 1000,
+            "height": 566,
+            "size": 285.87,
+            "sizeInBytes": 285867,
+            "url": "/uploads/large_potensiproduksemcon_2ab7804c11.png"
+          }
+        },
+        "hash": "potensiproduksemcon_2ab7804c11",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 61.62,
+        "url": "/uploads/potensiproduksemcon_2ab7804c11.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-09-25T06:30:52.821Z",
+        "updatedAt": "2025-09-25T06:30:52.821Z",
+        "publishedAt": "2025-09-25T06:30:52.824Z"
+      },
+      {
+        "id": 117,
+        "documentId": "mkr1axbqqals7o0wc4rxdy0r",
+        "name": "fablessmodel.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1312,
+        "height": 703,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_fablessmodel.png",
+            "hash": "thumbnail_fablessmodel_f4578836cb",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 245,
+            "height": 131,
+            "size": 30.11,
+            "sizeInBytes": 30105,
+            "url": "/uploads/thumbnail_fablessmodel_f4578836cb.png"
+          },
+          "small": {
+            "name": "small_fablessmodel.png",
+            "hash": "small_fablessmodel_f4578836cb",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 500,
+            "height": 268,
+            "size": 89.99,
+            "sizeInBytes": 89994,
+            "url": "/uploads/small_fablessmodel_f4578836cb.png"
+          },
+          "medium": {
+            "name": "medium_fablessmodel.png",
+            "hash": "medium_fablessmodel_f4578836cb",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 750,
+            "height": 402,
+            "size": 176.77,
+            "sizeInBytes": 176769,
+            "url": "/uploads/medium_fablessmodel_f4578836cb.png"
+          },
+          "large": {
+            "name": "large_fablessmodel.png",
+            "hash": "large_fablessmodel_f4578836cb",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 1000,
+            "height": 536,
+            "size": 292.93,
+            "sizeInBytes": 292934,
+            "url": "/uploads/large_fablessmodel_f4578836cb.png"
+          }
+        },
+        "hash": "fablessmodel_f4578836cb",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 125.18,
+        "url": "/uploads/fablessmodel_f4578836cb.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-09-25T04:03:53.021Z",
+        "updatedAt": "2025-09-25T04:03:53.021Z",
+        "publishedAt": "2025-09-25T04:03:53.023Z"
+      },
+      {
+        "id": 118,
+        "documentId": "bnfq7mtryk8zujcboy6lh5r5",
+        "name": "exportimportsemcon.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 542,
+        "height": 662,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_exportimportsemcon.png",
+            "hash": "thumbnail_exportimportsemcon_170cc7005a",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 128,
+            "height": 156,
+            "size": 25.33,
+            "sizeInBytes": 25327,
+            "url": "/uploads/thumbnail_exportimportsemcon_170cc7005a.png"
+          },
+          "small": {
+            "name": "small_exportimportsemcon.png",
+            "hash": "small_exportimportsemcon_170cc7005a",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 409,
+            "height": 500,
+            "size": 158.22,
+            "sizeInBytes": 158220,
+            "url": "/uploads/small_exportimportsemcon_170cc7005a.png"
+          }
+        },
+        "hash": "exportimportsemcon_170cc7005a",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 64.98,
+        "url": "/uploads/exportimportsemcon_170cc7005a.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-09-25T04:03:53.603Z",
+        "updatedAt": "2025-09-25T04:03:53.603Z",
+        "publishedAt": "2025-09-25T04:03:53.603Z"
+      },
+      {
+        "id": 119,
+        "documentId": "uok68ckndjialtia0thv048y",
+        "name": "semconecosystem.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 902,
+        "height": 500,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_semconecosystem.png",
+            "hash": "thumbnail_semconecosystem_e9dc63ddd0",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 245,
+            "height": 136,
+            "size": 41.21,
+            "sizeInBytes": 41207,
+            "url": "/uploads/thumbnail_semconecosystem_e9dc63ddd0.png"
+          },
+          "small": {
+            "name": "small_semconecosystem.png",
+            "hash": "small_semconecosystem_e9dc63ddd0",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 500,
+            "height": 277,
+            "size": 122.34,
+            "sizeInBytes": 122344,
+            "url": "/uploads/small_semconecosystem_e9dc63ddd0.png"
+          },
+          "medium": {
+            "name": "medium_semconecosystem.png",
+            "hash": "medium_semconecosystem_e9dc63ddd0",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 750,
+            "height": 416,
+            "size": 237.73,
+            "sizeInBytes": 237726,
+            "url": "/uploads/medium_semconecosystem_e9dc63ddd0.png"
+          }
+        },
+        "hash": "semconecosystem_e9dc63ddd0",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 94.26,
+        "url": "/uploads/semconecosystem_e9dc63ddd0.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-09-25T04:03:54.291Z",
+        "updatedAt": "2025-09-25T04:03:54.291Z",
+        "publishedAt": "2025-09-25T04:03:54.294Z"
+      },
+      {
+        "id": 120,
+        "documentId": "at5db893u172vthg245kl1ht",
+        "name": "semcon3.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 694,
+        "height": 1140,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_semcon3.png",
+            "hash": "thumbnail_semcon3_d689a56005",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 95,
+            "height": 156,
+            "size": 16.7,
+            "sizeInBytes": 16697,
+            "url": "/uploads/thumbnail_semcon3_d689a56005.png"
+          },
+          "small": {
+            "name": "small_semcon3.png",
+            "hash": "small_semcon3_d689a56005",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 304,
+            "height": 500,
+            "size": 94.78,
+            "sizeInBytes": 94777,
+            "url": "/uploads/small_semcon3_d689a56005.png"
+          },
+          "medium": {
+            "name": "medium_semcon3.png",
+            "hash": "medium_semcon3_d689a56005",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 457,
+            "height": 750,
+            "size": 171.18,
+            "sizeInBytes": 171175,
+            "url": "/uploads/medium_semcon3_d689a56005.png"
+          },
+          "large": {
+            "name": "large_semcon3.png",
+            "hash": "large_semcon3_d689a56005",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 609,
+            "height": 1000,
+            "size": 264.01,
+            "sizeInBytes": 264006,
+            "url": "/uploads/large_semcon3_d689a56005.png"
+          }
+        },
+        "hash": "semcon3_d689a56005",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 84.8,
+        "url": "/uploads/semcon3_d689a56005.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-09-25T04:03:55.703Z",
+        "updatedAt": "2025-09-25T04:03:55.703Z",
+        "publishedAt": "2025-09-25T04:03:55.704Z"
+      },
+      {
+        "id": 121,
+        "documentId": "v96xzf5fyp05k4q3k2p0u3ug",
+        "name": "1. 250709 R1 Progres Report Semiconductor 9 Juli 2025.pdf",
+        "alternativeText": null,
+        "caption": null,
+        "width": null,
+        "height": null,
+        "formats": null,
+        "hash": "1_250709_R1_Progres_Report_Semiconductor_9_Juli_2025_14f651857f",
+        "ext": ".pdf",
+        "mime": "application/pdf",
+        "size": 2296.08,
+        "url": "/uploads/1_250709_R1_Progres_Report_Semiconductor_9_Juli_2025_14f651857f.pdf",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-09-25T04:04:01.695Z",
+        "updatedAt": "2025-09-25T04:04:01.695Z",
+        "publishedAt": "2025-09-25T04:04:01.695Z"
+      }
+    ],
+    "produks": [],
+    "localizations": []
+  },
+  {
+    "id": 5,
+    "documentId": "mf7ojn5c8fsj9hspokc2dne2",
+    "namaProgram": "Robotic, Automation Electronic & Unmanned Autonomous System",
+    "slug": "robotic-automation-electronic-and-unmanned-autonomous-system",
+    "PICProgram": "Fajar Miftahul Falah",
+    "deskripsiProgram": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Program yang ditujukan untuk mewujudkan kemandirian teknologi di bidang sistem nirawak baik untuk keperluan pertahanan maupun pengaplikasian di bidang komersial seperti pertanian, perhubungan, penanganan bencana dan lainnya."
+          }
+        ]
+      }
+    ],
+    "cakupanProgram": [
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Studi roadmap pengembangan teknologi"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Studi aspek bisnis dan pasar"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pembuatan Prototipe"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "prediksiAnggaran": null,
+    "sumberDana": null,
+    "progressTindakLanjut": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Potensi Lanjutan : ",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Sistem kendaraan antar moda (UAV,UGV,UUV,USV)"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pengembangan AI untuk fitur tambahan."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Integrasi dengan satelit mikro untuk on premise long range navigation."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "risikoDanHambatan": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Kendala Utama Program : ",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Adanya Regulasi yang perlu dipenuhi untuk pengembangan di level tertentu."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Infrastruktur untuk pengembangan komponen utama belum tersedia di dalam negeri."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Resiko Utama Program :",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Keamanan Informasi dalam Kerjasama terutama dengan pihak luar negeri."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi competitor di pasar dalam negeri karena barrier to entry untuk beberapa segmen value chain cukup rendah (platform, komponen pendukung, dll)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-09-19T06:41:57.924Z",
+    "updatedAt": "2025-09-25T07:02:46.642Z",
+    "publishedAt": "2025-09-25T07:02:47.051Z",
+    "locale": "en",
+    "gambarUtama": {
+      "id": 28,
+      "documentId": "zb0kjuggz93tp99pt5g1ys21",
+      "name": "UAV.jpeg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 2560,
+      "height": 1706,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_UAV.jpeg",
+          "hash": "thumbnail_UAV_32ce77a656",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 234,
+          "height": 156,
+          "size": 6.31,
+          "sizeInBytes": 6313,
+          "url": "/uploads/thumbnail_UAV_32ce77a656.jpeg"
+        },
+        "medium": {
+          "name": "medium_UAV.jpeg",
+          "hash": "medium_UAV_32ce77a656",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 750,
+          "height": 500,
+          "size": 48.08,
+          "sizeInBytes": 48083,
+          "url": "/uploads/medium_UAV_32ce77a656.jpeg"
+        },
+        "small": {
+          "name": "small_UAV.jpeg",
+          "hash": "small_UAV_32ce77a656",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 500,
+          "height": 333,
+          "size": 23.02,
+          "sizeInBytes": 23024,
+          "url": "/uploads/small_UAV_32ce77a656.jpeg"
+        },
+        "large": {
+          "name": "large_UAV.jpeg",
+          "hash": "large_UAV_32ce77a656",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 1000,
+          "height": 666,
+          "size": 82.29,
+          "sizeInBytes": 82293,
+          "url": "/uploads/large_UAV_32ce77a656.jpeg"
+        }
+      },
+      "hash": "UAV_32ce77a656",
+      "ext": ".jpeg",
+      "mime": "image/jpeg",
+      "size": 459.78,
+      "url": "/uploads/UAV_32ce77a656.jpeg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-09-18T07:19:00.042Z",
+      "updatedAt": "2025-09-18T07:19:00.042Z",
+      "publishedAt": "2025-09-18T07:19:00.050Z"
+    },
+    "Mitra": [
+      {
+        "id": 103,
+        "namaInstansi": "Uludogan Tech",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-08",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyediaan Komponen dan Manufaktur"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Initial"
+      },
+      {
+        "id": 104,
+        "namaInstansi": "CTech",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-09",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyediaan Komponen dan Manufaktur"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Initial"
+      },
+      {
+        "id": 105,
+        "namaInstansi": "Honeywell International Inc.",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-09",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyediaan Sensor dan Accurator"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Initial"
+      },
+      {
+        "id": 106,
+        "namaInstansi": "Universitas Diponegoro",
+        "kategori": "Institusi Pendidikan",
+        "tahunKerjasama": "2025-05-23",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penelitian Vision Based Navigation System dan Seeker"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Prepare for review"
+      },
+      {
+        "id": 107,
+        "namaInstansi": "Institut Teknologi Bandung",
+        "kategori": "Institusi Pendidikan",
+        "tahunKerjasama": "2025-05-13",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penelitian tentang Precision Landing dan Scoring Target"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Prepare for review "
+      },
+      {
+        "id": 108,
+        "namaInstansi": "PT. Dirgantara Indonesia",
+        "kategori": "Instansi Dalam Negeri",
+        "tahunKerjasama": "2025-05-13",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyediaan platfom untuk Testing "
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "Inhouse"
+      }
+    ],
+    "Roadmap": [
+      {
+        "id": 29,
+        "judulRoadmap": null
+      }
+    ],
+    "MitraPotensial": [],
+    "PasarPotensial": [
+      {
+        "id": 69,
+        "namaInstansi": "Kementerian Pertahanan",
+        "potensiPasar": null
+      },
+      {
+        "id": 70,
+        "namaInstansi": "Kepolisian Negara Republik Indonesia",
+        "potensiPasar": null
+      },
+      {
+        "id": 71,
+        "namaInstansi": "Kementerian Pertanian",
+        "potensiPasar": null
+      },
+      {
+        "id": 72,
+        "namaInstansi": "Badan Nasional Penanggulangan Bencana",
+        "potensiPasar": null
+      }
+    ],
+    "dokumenTerkait": [
+      {
+        "id": 126,
+        "documentId": "o9p0kicj74n2i78f2x7u6in3",
+        "name": "uavpotentialmarket.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1078,
+        "height": 579,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_uavpotentialmarket.png",
+            "hash": "thumbnail_uavpotentialmarket_e25afef510",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 245,
+            "height": 132,
+            "size": 48.51,
+            "sizeInBytes": 48509,
+            "url": "/uploads/thumbnail_uavpotentialmarket_e25afef510.png"
+          },
+          "small": {
+            "name": "small_uavpotentialmarket.png",
+            "hash": "small_uavpotentialmarket_e25afef510",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 500,
+            "height": 269,
+            "size": 151.17,
+            "sizeInBytes": 151170,
+            "url": "/uploads/small_uavpotentialmarket_e25afef510.png"
+          },
+          "medium": {
+            "name": "medium_uavpotentialmarket.png",
+            "hash": "medium_uavpotentialmarket_e25afef510",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 750,
+            "height": 403,
+            "size": 296.12,
+            "sizeInBytes": 296119,
+            "url": "/uploads/medium_uavpotentialmarket_e25afef510.png"
+          },
+          "large": {
+            "name": "large_uavpotentialmarket.png",
+            "hash": "large_uavpotentialmarket_e25afef510",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 1000,
+            "height": 537,
+            "size": 484.69,
+            "sizeInBytes": 484688,
+            "url": "/uploads/large_uavpotentialmarket_e25afef510.png"
+          }
+        },
+        "hash": "uavpotentialmarket_e25afef510",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 168.56,
+        "url": "/uploads/uavpotentialmarket_e25afef510.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-09-25T07:02:13.001Z",
+        "updatedAt": "2025-09-25T07:02:13.001Z",
+        "publishedAt": "2025-09-25T07:02:13.002Z"
+      }
+    ],
+    "produks": [
+      {
+        "id": 21,
+        "documentId": "dfuyr1p6w08tgmnl8w2nudqq",
+        "createdAt": "2025-09-25T06:52:37.143Z",
+        "updatedAt": "2025-09-25T06:52:37.143Z",
+        "publishedAt": "2025-09-25T06:52:37.235Z",
+        "locale": "en",
+        "namaProduk": "Beyond Autonomous Control System",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Sistem kendali penerbangan (Flight Control Computer) dan kendali darat (Ground Control System) UAV yang dikembangkan PT Len Industri bersama Kementerian Pertahanan Indonesia. Sistem ini memberikan fleksibilitas dan keamanan tinggi dalam mengendalikan berbagai jenis UAV, baik fixed-wing, multi-rotor, maupun single-rotor."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dengan desain ringkas, mudah dibawa, serta dilengkapi sensor canggih dan mode penerbangan beragam, AUTACS mendukung operasi UAV secara manual maupun autopilot. Dilengkapi simulasi kontrol penerbangan, AUTACS juga memudahkan pelatihan dan adaptasi penggunaan UAV secara cepat dan akurat."
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "AUTACS – FCC\t",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Length\t130 mm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Width\t100 mm\t"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Height\t28 mm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Connection\t"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "RS232 & UART Serial Connection port"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "10CH PWM Output"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "I2C Connection"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "SBUS Connection"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "5CH Digital & Analog I/O"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Other\t"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Power 18-30VDC"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "AUTACS – GCS",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Length\t977 mm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Width      417 mm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Height\t156 mm"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Connection "
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "S232 Serial"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "2xUSB Port"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Other"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "220VAC"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "unordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "3 extended Battery @25000maH"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": ""
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "FCC",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "ordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Compact Design"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Easy to deploy"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Customizable for Various Drones"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Internal AHRS & Barometric Sensor"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Ublox GPS Compatible"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Xsense Sensor Compatible"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Mode :  Manual, Manual Assisted, Autopilot, Go Home, Loiter, and Go Here"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "GCS",
+                "bold": true
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "ordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Compact Design"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Easy to Carry"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Waterproof"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Dual Display Mode"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Up to 6hr Operation"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      }
+    ],
+    "localizations": []
+  },
+  {
+    "id": 6,
+    "documentId": "hshnqepaxws2e0vws5tq3sp9",
+    "namaProgram": "Radar & Electronic Warfare System",
+    "slug": "radar-and-electronic-warfare-system",
+    "PICProgram": "Sihmanto",
+    "deskripsiProgram": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Pengembangan sistem radar dan peralatan perang elektronik untuk meningkatkan kualitas pertahanan."
+          }
+        ]
+      }
+    ],
+    "cakupanProgram": [
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Radar System"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Radar Chip"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Spare Part Radar"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "prediksiAnggaran": null,
+    "sumberDana": null,
+    "progressTindakLanjut": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "-"
+          }
+        ]
+      }
+    ],
+    "risikoDanHambatan": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Risiko Utama Program :"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dinamika Kebijakan Pemerintah"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi Relokasi Anggaran Pemerintah"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Transfer of Technoloy yang dibatasi Principal"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Isu Peretasan Sistm"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi Embargo mengikuti Dinamika Geopolitik Dunia"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Harga produk yang fluktuatif mengikuti dinamika isu tarif impor dunia"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Support maintenance dari principal setelah After Sales"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Kegagalan integrasi sub-komponen"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Kendala Utama Program :",
+            "type": "text",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Produk Pertahanan :"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Regulasi ketat impor produk pertahanan"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Uji Kelayakan Operasional (FAT/SAT) sebelum produk digunakan"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ketergantungan atas komponen utama dari Principal."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ketergantungan atas Rantai Pasok."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pemenuhan atas standar teknis teknologi (MIL-STD atau DNV)"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ketersediaan perangkat pendukung luar negeri."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Produk Komersial :"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ketergantungan atas APBN"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Akurasi Perangkat"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Ketersediaan perangkat pendukung dalam negeri."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Skema kontrak yang tidak menguntungkan perusahaan."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-09-19T07:01:19.286Z",
+    "updatedAt": "2025-09-25T07:29:46.663Z",
+    "publishedAt": "2025-09-25T07:29:47.003Z",
+    "locale": "en",
+    "gambarUtama": {
+      "id": 25,
+      "documentId": "la3qfk3a5q5emg47f3c2vmrm",
+      "name": "Radar LEN.jpeg",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1200,
+      "height": 800,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_Radar LEN.jpeg",
+          "hash": "thumbnail_Radar_LEN_3808ee2ad4",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 234,
+          "height": 156,
+          "size": 9.14,
+          "sizeInBytes": 9136,
+          "url": "/uploads/thumbnail_Radar_LEN_3808ee2ad4.jpeg"
+        },
+        "small": {
+          "name": "small_Radar LEN.jpeg",
+          "hash": "small_Radar_LEN_3808ee2ad4",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 500,
+          "height": 333,
+          "size": 35.48,
+          "sizeInBytes": 35480,
+          "url": "/uploads/small_Radar_LEN_3808ee2ad4.jpeg"
+        },
+        "medium": {
+          "name": "medium_Radar LEN.jpeg",
+          "hash": "medium_Radar_LEN_3808ee2ad4",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 750,
+          "height": 500,
+          "size": 68.79,
+          "sizeInBytes": 68792,
+          "url": "/uploads/medium_Radar_LEN_3808ee2ad4.jpeg"
+        },
+        "large": {
+          "name": "large_Radar LEN.jpeg",
+          "hash": "large_Radar_LEN_3808ee2ad4",
+          "ext": ".jpeg",
+          "mime": "image/jpeg",
+          "path": null,
+          "width": 1000,
+          "height": 667,
+          "size": 107.32,
+          "sizeInBytes": 107320,
+          "url": "/uploads/large_Radar_LEN_3808ee2ad4.jpeg"
+        }
+      },
+      "hash": "Radar_LEN_3808ee2ad4",
+      "ext": ".jpeg",
+      "mime": "image/jpeg",
+      "size": 146.34,
+      "url": "/uploads/Radar_LEN_3808ee2ad4.jpeg",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-09-18T07:18:52.502Z",
+      "updatedAt": "2025-09-18T07:18:52.502Z",
+      "publishedAt": "2025-09-18T07:18:52.504Z"
+    },
+    "Mitra": [
+      {
+        "id": 111,
+        "namaInstansi": "ELDES Group",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-08",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pengembangan Produk : "
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "ordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Radar Surveillance Medium Range"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Radar Anti Drone"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Radar Weather X Band"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MoU"
+      },
+      {
+        "id": 112,
+        "namaInstansi": "THALES Group ",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-04-09",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pengembangan Produk Radar MSSR"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MoU"
+      }
+    ],
+    "Roadmap": [],
+    "MitraPotensial": [],
+    "PasarPotensial": [
+      {
+        "id": 76,
+        "namaInstansi": "TNI Angkatan Darat",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyediaan pasokan :"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "ordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Radar Surveillance Medium Range"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Radar Anti Drone"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "namaInstansi": "TNI Angkatan Laut",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyediaan pasokan :"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "ordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Radar Surveillance Medium Range"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Radar Anti Drone"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "namaInstansi": "Badan Meteorologi, Klimatologi, dan Geofisika",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Penyediaan pasokan Radar MSSR"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dokumenTerkait": [
+      {
+        "id": 132,
+        "documentId": "rhtyv63ndfvhvyz3xgky5sp5",
+        "name": "strukturorganisasi-radar.png",
+        "alternativeText": null,
+        "caption": null,
+        "width": 1261,
+        "height": 596,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_strukturorganisasi-radar.png",
+            "hash": "thumbnail_strukturorganisasi_radar_321900843c",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 245,
+            "height": 116,
+            "size": 18.49,
+            "sizeInBytes": 18485,
+            "url": "/uploads/thumbnail_strukturorganisasi_radar_321900843c.png"
+          },
+          "small": {
+            "name": "small_strukturorganisasi-radar.png",
+            "hash": "small_strukturorganisasi_radar_321900843c",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 500,
+            "height": 236,
+            "size": 53.3,
+            "sizeInBytes": 53295,
+            "url": "/uploads/small_strukturorganisasi_radar_321900843c.png"
+          },
+          "medium": {
+            "name": "medium_strukturorganisasi-radar.png",
+            "hash": "medium_strukturorganisasi_radar_321900843c",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 750,
+            "height": 354,
+            "size": 100.72,
+            "sizeInBytes": 100715,
+            "url": "/uploads/medium_strukturorganisasi_radar_321900843c.png"
+          },
+          "large": {
+            "name": "large_strukturorganisasi-radar.png",
+            "hash": "large_strukturorganisasi_radar_321900843c",
+            "ext": ".png",
+            "mime": "image/png",
+            "path": null,
+            "width": 1000,
+            "height": 473,
+            "size": 163.04,
+            "sizeInBytes": 163039,
+            "url": "/uploads/large_strukturorganisasi_radar_321900843c.png"
+          }
+        },
+        "hash": "strukturorganisasi_radar_321900843c",
+        "ext": ".png",
+        "mime": "image/png",
+        "size": 67.82,
+        "url": "/uploads/strukturorganisasi_radar_321900843c.png",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-09-25T07:27:58.086Z",
+        "updatedAt": "2025-09-25T07:27:58.086Z",
+        "publishedAt": "2025-09-25T07:27:58.093Z"
+      },
+      {
+        "id": 133,
+        "documentId": "bp15pz6hy51q31eeuel2rq2i",
+        "name": "4. Executive Summary Astacita Radar & Electronic Warfare_09072025_Rev.00.pptx",
+        "alternativeText": null,
+        "caption": null,
+        "width": null,
+        "height": null,
+        "formats": null,
+        "hash": "4_Executive_Summary_Astacita_Radar_and_Electronic_Warfare_09072025_Rev_00_d3f10d8537",
+        "ext": ".pptx",
+        "mime": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "size": 10402.67,
+        "url": "/uploads/4_Executive_Summary_Astacita_Radar_and_Electronic_Warfare_09072025_Rev_00_d3f10d8537.pptx",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "createdAt": "2025-09-25T07:28:16.701Z",
+        "updatedAt": "2025-09-25T07:28:16.701Z",
+        "publishedAt": "2025-09-25T07:28:16.705Z"
+      }
+    ],
+    "produks": [
+      {
+        "id": 23,
+        "documentId": "nl7jgaetg3ad5psph3lm1zv0",
+        "createdAt": "2025-09-25T07:16:27.110Z",
+        "updatedAt": "2025-09-25T07:16:27.110Z",
+        "publishedAt": "2025-09-25T07:16:27.187Z",
+        "locale": "en",
+        "namaProduk": "Radar Surveillance Medium Range",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Jenis radar yang digunakan untuk mendeteksi dan memantau target di udara atau di darat dalam jarak menengah, biasanya antara 70 hingga 120 kilometer atau lebih, tergantung pada jenis dan aplikasinya, untuk tujuan pertahanan atau pengawasan. "
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      },
+      {
+        "id": 25,
+        "documentId": "hcvq8bvn617ohbp7e0fteks7",
+        "createdAt": "2025-09-25T07:18:49.867Z",
+        "updatedAt": "2025-09-25T07:18:49.867Z",
+        "publishedAt": "2025-09-25T07:18:49.959Z",
+        "locale": "en",
+        "namaProduk": "Radar Anti Drone",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Teknologi yang mengirimkan gelombang radio untuk mendeteksi, melacak, dan kadang-kadang menetralisir drone (Pesawat Udara Tanpa Awak/UAS) dengan menganalisis sinyal pantulan dari objek tersebut"
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      },
+      {
+        "id": 27,
+        "documentId": "wgubc2ckz6don4onztpn356m",
+        "createdAt": "2025-09-25T07:21:21.272Z",
+        "updatedAt": "2025-09-25T07:21:21.272Z",
+        "publishedAt": "2025-09-25T07:21:21.365Z",
+        "locale": "en",
+        "namaProduk": "Radar Weather X Band",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Radar cuaca yang beroperasi pada frekuensi 8-12 GHz, yang memiliki panjang gelombang lebih pendek daripada radar S-band, memungkinkan resolusi target yang lebih tinggi dan deteksi objek yang lebih kecil seperti partikel presipitasi."
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      },
+      {
+        "id": 29,
+        "documentId": "gphawmo0yuy47dg9vhac97rb",
+        "createdAt": "2025-09-25T07:23:28.609Z",
+        "updatedAt": "2025-09-25T07:23:28.609Z",
+        "publishedAt": "2025-09-25T07:23:28.687Z",
+        "locale": "en",
+        "namaProduk": "Radar Monopulse Secondary Surveillance Radar (MSSR)",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Sistem radar pengawasan sekunder yang lebih canggih yang menggunakan pola sinar berbeda untuk menentukan posisi dan data target dengan lebih akurat, mengatasi masalah garbling (informasi tumpang tindih) dan fruit (respons tumpang tindih dari banyak pesawat) yang terjadi pada sistem radar sebelumnya."
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      }
+    ],
+    "localizations": []
+  },
+  {
+    "id": 8,
+    "documentId": "e3lab324kgeju0nd57z1hten",
+    "namaProgram": "Cyber Security",
+    "slug": "cyber-security",
+    "PICProgram": "Edy Afrizal, S.Kom",
+    "deskripsiProgram": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Peningkatan keamanan jaringan pertahanan dan komersial di indonesia"
+          }
+        ]
+      }
+    ],
+    "cakupanProgram": [
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Security Operation Center Solution"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Security Product for IT/OT Data Diode"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Advanced Zerb Trust Networking"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Advanced Real Time Threat Monitoring & Analytic"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "prediksiAnggaran": null,
+    "sumberDana": null,
+    "progressTindakLanjut": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "-"
+          }
+        ]
+      }
+    ],
+    "risikoDanHambatan": [
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "text": "Kendala Utama Program:",
+            "type": "text",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Memastikan solusi yang sedang dikaji saat ini sesuai dengan kebutuhan pasar (Defence Sector dan Commercial Sector)"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Memetakan kebutuhan SDM saat ini untuk melakukan proses product knowledge sampai dengan proses transfer teknologi dan kebutuhan member untuk AstaCipta itu sendiri"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Dengan Partner yang ada saat ini, masih adanya penyelarasan Point of View terkait dengan POC atau beauty contest sehingga saat ini masih belum bisa untuk mengambil keputusan untuk : "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "a. Partner butuh mengetahui kebutuhan market untuk project yang berpotensial kedepannya. untuk penerapan cyber security pada asta cita lainnya dalam hal penguatan secure communication systems butuhnya koordinasi bersama untuk memetakan diagram produk dan teknologi yang dipakai saat ini."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "b. Untuk solusi Centralized SOC dikarenakan menggunakan pendekatan RDCS (Result-Driven Cyber Security), sehingga pada proses awal implementasi Layanan/ Product akan selalu dilakukan assessment mencari NTE (Non Tolerable Events) dari kustomer bahkan jika akan dilakukan POC (Proof of Concept)  dimana waktu yang dibutuhkan cukup relatif lama antara 12 Bulan s/d 18 Bulan."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": "Risiko Utama Program :",
+            "bold": true
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "format": "ordered",
+        "children": [
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Sulit menemukan solusi yang tepat, solusi keamanan harus efektif dan tepat sasaran sesuai dengan marketnya."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Keterbatasan Anggaran dan sumber daya"
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Risiko kehilangan data dan reputasi : Jika data bocor, perusahaan bisa kehilangan kepercayaan pelanggan."
+              }
+            ]
+          },
+          {
+            "type": "list-item",
+            "children": [
+              {
+                "type": "text",
+                "text": "Peraturan yang rumit dan berubah-ubah : Perusahaan harus selalu mengikuti aturan keamanan yang terus diperbarui.Ancaman yang terus berubah : Serangan baru terus muncul sehingga harus memiliki pengembangan dan solusi produk yang dinamis dan berkembang."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "children": [
+          {
+            "type": "text",
+            "text": ""
+          }
+        ]
+      }
+    ],
+    "createdAt": "2025-09-19T08:02:19.223Z",
+    "updatedAt": "2025-09-25T07:56:49.055Z",
+    "publishedAt": "2025-09-25T07:56:49.482Z",
+    "locale": "en",
+    "gambarUtama": {
+      "id": 24,
+      "documentId": "g0o2t8x4bln3c0dwipq39dl6",
+      "name": "cybersec.png",
+      "alternativeText": null,
+      "caption": null,
+      "width": 1080,
+      "height": 690,
+      "formats": {
+        "thumbnail": {
+          "name": "thumbnail_cybersec.png",
+          "hash": "thumbnail_cybersec_ff61bc89da",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 244,
+          "height": 156,
+          "size": 72.49,
+          "sizeInBytes": 72491,
+          "url": "/uploads/thumbnail_cybersec_ff61bc89da.png"
+        },
+        "small": {
+          "name": "small_cybersec.png",
+          "hash": "small_cybersec_ff61bc89da",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 500,
+          "height": 319,
+          "size": 251.76,
+          "sizeInBytes": 251756,
+          "url": "/uploads/small_cybersec_ff61bc89da.png"
+        },
+        "medium": {
+          "name": "medium_cybersec.png",
+          "hash": "medium_cybersec_ff61bc89da",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 750,
+          "height": 479,
+          "size": 525.35,
+          "sizeInBytes": 525350,
+          "url": "/uploads/medium_cybersec_ff61bc89da.png"
+        },
+        "large": {
+          "name": "large_cybersec.png",
+          "hash": "large_cybersec_ff61bc89da",
+          "ext": ".png",
+          "mime": "image/png",
+          "path": null,
+          "width": 1000,
+          "height": 639,
+          "size": 850.27,
+          "sizeInBytes": 850272,
+          "url": "/uploads/large_cybersec_ff61bc89da.png"
+        }
+      },
+      "hash": "cybersec_ff61bc89da",
+      "ext": ".png",
+      "mime": "image/png",
+      "size": 220.66,
+      "url": "/uploads/cybersec_ff61bc89da.png",
+      "previewUrl": null,
+      "provider": "local",
+      "provider_metadata": null,
+      "createdAt": "2025-09-18T07:18:52.211Z",
+      "updatedAt": "2025-09-18T07:18:52.211Z",
+      "publishedAt": "2025-09-18T07:18:52.212Z"
+    },
+    "Mitra": [
+      {
+        "id": 113,
+        "namaInstansi": "Positive Technologies",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-09",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MoU"
+      },
+      {
+        "id": 114,
+        "namaInstansi": "Cyberium",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-15",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MoU"
+      },
+      {
+        "id": 115,
+        "namaInstansi": "Blu 5 Group",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-15",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MoU"
+      },
+      {
+        "id": 116,
+        "namaInstansi": "Havelsan",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-15",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MoU"
+      },
+      {
+        "id": 117,
+        "namaInstansi": "ITSec",
+        "kategori": "Instansi Luar Negeri",
+        "tahunKerjasama": "2025-05-08",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MoU"
+      },
+      {
+        "id": 118,
+        "namaInstansi": "Universitas Diponegoro",
+        "kategori": "Institusi Pendidikan",
+        "tahunKerjasama": "2025-05-15",
+        "detailKerjasama": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Pengembangan penelitian Cryptography dan Intrusion Detection System."
+              }
+            ]
+          }
+        ],
+        "tipeKerjasama": "MoU"
+      }
+    ],
+    "Roadmap": [],
+    "MitraPotensial": [],
+    "PasarPotensial": [
+      {
+        "id": 79,
+        "namaInstansi": "Kementrian Pertahanan",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi Penyelengaraan Project Cyber Security Defence dengan anggarn :"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rp.1.130 Miliar"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "namaInstansi": "TNI Angkatan Darat",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi Penyelengaraan Project Cyber Security Defence dengan anggarn :"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rp.75 Miliar"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 81,
+        "namaInstansi": "Badan Siber dan Sandi Negara",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi Penyelengaraan Project Cyber Security Defence dengan anggarn :"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rp.94 Miliar"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 82,
+        "namaInstansi": "Markas Besar TNI",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi Penyelengaraan Project Cyber Security Defence dengan anggarn :"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rp.495 Miliar"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "namaInstansi": "Badan Intelijen Negara",
+        "potensiPasar": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi Penyelengaraan Project Cyber Security Defence dengan anggarn :"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Rp.159 Miliar"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "dokumenTerkait": null,
+    "produks": [
+      {
+        "id": 35,
+        "documentId": "il9qmygnsscanptk8pbm4690",
+        "createdAt": "2025-09-25T07:54:08.318Z",
+        "updatedAt": "2025-09-25T07:54:08.318Z",
+        "publishedAt": "2025-09-25T07:54:08.398Z",
+        "locale": "en",
+        "namaProduk": "Centralized SOC Management System",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Sebuah infrastruktur yang menggabungkan orang, proses, dan teknologi di satu lokasi untuk memantau, mendeteksi, menganalisis, dan merespons ancaman keamanan siber di seluruh organisasi secara terpadu. Sistem ini bertujuan untuk secara proaktif melindungi aset digital perusahaan, mengidentifikasi kerentanan sistem, dan memastikan kelancaran operasi keamanan siber secara berkelanjutan. "
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Potensi Fitur :"
+              }
+            ]
+          },
+          {
+            "type": "list",
+            "format": "ordered",
+            "children": [
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Vulnerability Assessment & Penetration Testing (VAPT)"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Advanced Real Time Threat Monitoring & Analytic"
+                  }
+                ]
+              },
+              {
+                "type": "list-item",
+                "children": [
+                  {
+                    "type": "text",
+                    "text": "Managed Security Service PRovider (MSSP)"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      },
+      {
+        "id": 37,
+        "documentId": "cv70rooqrxwf2z7ws87e1lfx",
+        "createdAt": "2025-09-25T07:57:39.433Z",
+        "updatedAt": "2025-09-25T07:59:19.903Z",
+        "publishedAt": "2025-09-25T07:59:19.973Z",
+        "locale": "en",
+        "namaProduk": "Network Security",
+        "deskripsiProduk": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Projek Kolaborasi dengan National Research Partner(Mitra), yaitu Seperangkat kebijakan, prosedur, dan teknologi yang digunakan untuk melindungi sistem jaringan komputer dari berbagai ancaman seperti akses tidak sah, peretasan, dan serangan siber"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "Berupa Advanced Zero Trust Networking + National Cryptography"
+              }
+            ]
+          }
+        ],
+        "spesifikasiTeknis": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "keunggulanKompetitif": [
+          {
+            "type": "paragraph",
+            "children": [
+              {
+                "type": "text",
+                "text": "-"
+              }
+            ]
+          }
+        ],
+        "linkInformasi": null
+      }
+    ],
+    "localizations": []
+  }
+]
