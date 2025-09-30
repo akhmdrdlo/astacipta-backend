@@ -1,7 +1,6 @@
-// path: astacipta-backend/config/server.js
 module.exports = ({ env }) => ({
   host: env('HOST', '0.0.0.0'),
-  port: env.int('PORT', 1337),
+  port: env.int('PORT', 1337), // Render akan menimpa ini secara otomatis
   app: {
     keys: env.array('APP_KEYS'),
   },
