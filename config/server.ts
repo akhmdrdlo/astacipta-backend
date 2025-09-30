@@ -5,6 +5,5 @@ module.exports = ({ env }) => ({
   app: {
     keys: env.array('APP_KEYS'),
   },
-  // Tambahkan blok ini untuk memberitahu Strapi URL publiknya
   url: env('PUBLIC_URL', 'http://localhost:1337'),
 });
