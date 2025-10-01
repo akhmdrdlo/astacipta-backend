@@ -6,26 +6,21 @@ module.exports = ({ env }) => ({
       jwtSecret: env('JWT_SECRET'),
     },
   },
-  // Konfigurasi BARU untuk plugin upload
+  // Konfigurasi plugin upload
   'upload': {
     config: {
       provider: 'aws-s3',
       providerOptions: {
-        accessKeyId: env('CLOUDFLARE_ACCESS_KEY_ID'),
-        secretAccessKey: env('CLOUDFLARE_SECRET_ACCESS_KEY'),
         // ==== PERBAIKAN DI SINI ====
-        // Menambahkan 'region' yang dibutuhkan oleh AWS SDK
-        region: env('CLOUDFLARE_R2_REGION', 'auto'), 
+        // Menggunakan nama environment variable standar AWS
+        accessKeyId: env('AWS_ACCESS_KEY_ID'),
+        secretAccessKey: env('AWS_SECRET_ACCESS_KEY'),
         // ============================
+        region: env('CLOUDFLARE_R2_REGION', 'auto'), 
         endpoint: `https://${env('CLOUDFLARE_ACCOUNT_ID')}.r2.cloudflarestorage.com`,
         params: {
           Bucket: env('CLOUDFLARE_R2_BUCKET_NAME'),
         },
-      },
-      actionOptions: {
-        upload: {},
-        uploadStream: {},
-        delete: {},
       },
     },
   },
